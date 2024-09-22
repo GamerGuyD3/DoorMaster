@@ -1,0 +1,4 @@
+name: DoorMaster
+version: '1.0-SNAPSHOT'
+main: me.trueprotocol.doorMaster.DoorMaster
+api-version: '1.21'
